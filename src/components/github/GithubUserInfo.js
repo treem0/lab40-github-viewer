@@ -17,4 +17,5 @@ GithubUserInfo.propTypes = {
   following: PropTypes.number.isRequired
 };
 
+
 export default GithubUserInfo;
